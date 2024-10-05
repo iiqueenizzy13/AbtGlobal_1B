@@ -42,4 +42,4 @@
     - Datetime
 
 ## Acknowlegements
-    Thanks to ABT GLOBAL team, Laurence Baskett, Nora Connor and Madeline Zhang, and Break Through Tech for their help with this project. Further thanks to the student team Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili. 
+    Thanks to ABT GLOBAL team, Laurence Baskett, Nora Connor and Madeline Zhang, Break Through Tech and student team TA from BTT, Daniel Shao, for their help and guidance with this project. Further thanks to the student team Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili.
