@@ -31,9 +31,9 @@
     - Milestone 6: Report
 
 ## Data Overview
-    Weather Data: https://www.ncdc.noaa.gov/cdo-web/datatools/records
+    Weather Data: weekly_covid_county_level_US.csv
 
-    COVID-19 Data: [LINK THE DATA WE CHOOSE AFTER MILESTONE 1]
+    COVID-19 Data: weekly_tavg_county_cont_US.csv
 
 ## Python Libraries
     - Pandas
@@ -42,5 +42,4 @@
     - Datetime
 
 ## Acknowlegements
-    Thanks to ABT GLOBAL and Break Through Tech for their help with this project. 
-    
+    Thanks to ABT GLOBAL team, Laurence Baskett, Nora Connor and Madeline Zhang, Break Through Tech and student team TA from BTT, Daniel Shao, for their help and guidance with this project. Further thanks to the student team Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili.
