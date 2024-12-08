@@ -1,14 +1,14 @@
-## Abt Global 
+# Abt Global 
     Uncovering Correlations Between Weather Conditions and COVID-19 Rates
 
-## Table of Contents
-    - Project Description, Team's Objective and Desired Outcomes (#Project Description, Team's Obejectives and Goals)
-    - [Project Milestones and Timeline]
+# Table of Contents
+    - [Project Description, Team's Objective and Desired Outcomes](#project-description,-team's-obejectives-and-goals)
+    - [Project Milestones and Timeline](#project-milestones-and-timeline)
     - [Data Overview] 
     - [Python Libraries]
     - [Acknowledgements]
 
-## Project Description, Team's Obejectives and Goals
+# Project Description, Team's Obejectives and Goals
     Leveraging AI methodologies to understand correlations between weather conditions, in particular temperature fluctuations, and the rate of positive COVID-19 tests. This project will involve working with public time series data, including COVID data from 2020-2021 and the corresponding weather data.
 
     ## Team's Objective 
@@ -20,7 +20,7 @@
         Present the results of our analysis of relationships between weather conditions and COVID-19 rates.
         This projet hopes to provide critical insights that can inform public healthn strategies, improve resource allocation, community preparedness and resilience, and policy/decision-making support.
 
-## Project Milestones and Timeline 
+# Project Milestones and Timeline 
     - Milestone 1: Exploratory Data Analysis
     - Milestone 2: Data Preprocessing
     - Milestone 3: Explore Data and Identify Model
@@ -28,12 +28,12 @@
     - Milestone 5: Evaluation
     - Milestone 6: Report
 
-## Data Overview
+# Data Overview
     Weather Data: weekly_covid_county_level_US.csv
     COVID-19 Data: weekly_tavg_county_cont_US.csv
     Dataset used on models: final_dataset.csv
 
-## Python Libraries Used
+# Python Libraries Used
     - Pandas
     - Scikit-learn
     - Numpy
@@ -42,5 +42,7 @@
     - OS
     - Seaborn
 
-## Acknowlegements
-    Thanks to ABT GLOBAL team, Laurence Baskett, Nora Connor and Madeline Zhang, Break Through Tech and student team TA from BTT, Daniel Shao, for their help and guidance with this project. Further thanks to the student team Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili.
+# Acknowlegements
+    Thanks to ABT GLOBAL team, Laurence Baskett, Nora Connor and Madeline Zhang, 
+    Break Through Tech (BTT) and student team TA from BTT, Daniel Shao, for their help and guidance with this project. 
+    Further thanks to the student team Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili.
