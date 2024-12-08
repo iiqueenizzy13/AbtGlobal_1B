@@ -92,7 +92,7 @@ For future work related to this project, it would be best to expand the scope to
 - Seaborn
 
 ## License
-Copyright 2024 Izabel Miminoshvili
+Copyright 2024 Uma Uppuloori, Thienkim Nguyen, Madison Harman, Sukaina Zaidi and Izabel Miminoshvili
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
